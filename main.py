@@ -1,4 +1,6 @@
 def smallest_gap(s):
+    # create an empty dictionary to have a contol
+    # I already think in a more efficient way... I'll developed later....
     letters_found_dic = {}
     pos = 0
     diff = 999999999999999999999
